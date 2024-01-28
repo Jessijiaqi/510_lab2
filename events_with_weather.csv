@@ -173,7 +173,7 @@ Seattle Kraken vs. Winnipeg Jets,2024-03-08,Climate Pledge Arena,Sports,Queen An
 X:The Life and Times of Malcolm X,2024-03-09,Marion Oliver McCaw Hall,Music,Queen Anne / Seattle Center,47.62397705,-122.35038850536958,Weather data not available
 Bach St. John Passion,2024-03-09,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Weather data not available
 Helene Grimaud,2024-03-09,Meany Center for the Performing Arts,Music,University District,47.6612984,-122.3131523,Weather data not available
-Positive Fragmentation,2024-03-10,Bellevue Arts Museum,Museums,Bellevue / Eastside,,
+Positive Fragmentation,2024-03-10,Bellevue Arts Museum,Museums,Bellevue / Eastside,47.615837,-122.201193,Weather data not available
 Antonio M. Gomez: LINEAJES,2024-03-10,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Weather data not available
 Soren Solkaer: Sort Sol,2024-03-10,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151,Weather data not available
 Luchadora!,2024-03-10,Seattle Children's Theatre,Theatre,Queen Anne / Seattle Center,47.6204553,-122.35225726215312,Weather data not available
@@ -201,7 +201,7 @@ Harold and the Purple Crayon,2024-03-30,Marion Oliver McCaw Hall,Dance,Queen Ann
 Seattle Kraken vs. Dallas Stars,2024-03-30,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486,Weather data not available
 Illuminate: Glass Art for Early Learners,2024-03-31,Museum of Glass,Museums,South,47.6191101,-122.33653138239433,Weather data not available
 Al Young’s 1970 Dodge Challenger Drag Racer,2024-03-31,Museum of History & Industry,Museums,Queen Anne / Seattle Center,47.6275114,-122.3367506,Weather data not available
-Sanctuary City,2024-03-31,Seattle Rep,Theatre,Queen Anne / Seattle Center,,
+Sanctuary City,2024-03-31,Seattle Rep,Theatre,Queen Anne / Seattle Center,47.6191101,-122.33653138239433,Weather data not available
 Stew,2024-03-31,ACT Theatre,Theatre,Downtown,47.6108495,-122.3323262,Weather data not available
 Luis Miguel,2024-04-04,Climate Pledge Arena,Music,Queen Anne / Seattle Center,47.6219014,-122.353990491486,Weather data not available
 Taylor Raven and Duke Kim in Recital,2024-04-04,Opera Center,Music,Queen Anne / Seattle Center,47.624004299999996,-122.3494506540469,Weather data not available
@@ -223,11 +223,11 @@ Disney’s Aladdin,2024-04-28,The Paramount Theatre,Theatre,Downtown,47.5989361,
 Antarctic Symphony,2024-04-28,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Weather data not available
 Shine On Seattle,2024-04-29,Pioneer Square,Festivals & Special Events,Pioneer Square,47.6027217,-122.3313539,Weather data not available
 Noah Geller’s Playlist,2024-05-04,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Weather data not available
-Broadway Spectacular,2024-05-04,Cornish Playhouse at Seattle Center,Music,Queen Anne / Seattle Center,,
+Broadway Spectacular,2024-05-04,Cornish Playhouse at Seattle Center,Music,Queen Anne / Seattle Center,47.622554,-122.3386578,Weather data not available
 Jessica Jackson Hutchins: Wrecked and Righteous,2024-05-05,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Weather data not available
 The Lion Tells His Tale,2024-05-05,Broadway Performance Hall,Theatre,Capitol Hill / Central District,47.6158151,-122.32186077039998,Weather data not available
 "Guma’ Gela:  Part Land, Part Sea, All Ancestry",2024-05-12,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705,Weather data not available
-Fat Ham,2024-05-12,Seattle Rep,Theatre,Queen Anne / Seattle Center,,
+Fat Ham,2024-05-12,Seattle Rep,Theatre,Queen Anne / Seattle Center,47.622554,-122.3386578,Weather data not available
 A Tale of Peter Rabbit,2024-05-12,Seattle Children's Theatre,Theatre,Queen Anne / Seattle Center,47.6204553,-122.35225726215312,Weather data not available
 The Lehman Trilogy,2024-05-12,ACT Theatre,Theatre,Downtown,47.6108495,-122.3323262,Weather data not available
 The Untold Story of Sharks | National Geographic Live,2024-05-14,Benaroya Hall,Readings & Lectures,Downtown,47.60811665,-122.33697040702705,Weather data not available
@@ -240,7 +240,7 @@ Jan Lisiecki Plays Prokofiev,2024-06-09,Benaroya Hall,Music,Downtown,47.60811665
 Beethoven Symphony No. 5,2024-06-15,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Weather data not available
 Elizabeth Malaska: All Be Your Mirror,2024-06-16,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575,Weather data not available
 Joshua Bell Plays Elements Concerto,2024-06-22,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705,Weather data not available
-"Together Again, Again!",2024-06-23,Seattle Rep,Theatre,Queen Anne / Seattle Center,,
+"Together Again, Again!",2024-06-23,Seattle Rep,Theatre,Queen Anne / Seattle Center,47.622554,-122.3386578,Weather data not available
 Lip Sync for Our Rights,2024-06-23,Marion Oliver McCaw Hall,Music,Queen Anne / Seattle Center,47.62397705,-122.35038850536958,Weather data not available
 Company,2024-06-28,The Paramount Theatre,Music,Downtown,47.5989361,-122.3279543,Weather data not available
 2024 University of Washington MFA + MDes Thesis Exhibition,2024-06-30,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Weather data not available
@@ -255,4 +255,4 @@ Sound Check! The Music We Make,2024-09-14,Wing Luke Museum,Museums,International
 Raul de Nieves,2024-09-30,Henry Art Gallery,Museums,University District,47.6565246,-122.31173279895636,Weather data not available
 Frye Salon,2024-10-27,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555,Weather data not available
 On Native Land: Landscapes from the Haub Family Collection,2024-11-17,Tacoma Art Museum,Museums,South,47.6191101,-122.33653138239433,Weather data not available
-Washi Transformed New Expressions in Japanese Paper,2026-04-26,Bellevue Arts Museum,Museums,Bellevue / Eastside,,
+Washi Transformed New Expressions in Japanese Paper,2026-04-26,Bellevue Arts Museum,Museums,Bellevue / Eastside,47.615837,-122.201193,Weather data not available
