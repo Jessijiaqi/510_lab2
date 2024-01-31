@@ -1,4 +1,8 @@
 # 510_lab2
+Web-scrapping for Seattleevent website 
+
+## what's Included
+Visitseattle.ipynb
 
 ### Basic events info grab (no weather and coordinates)：events.csv
 
