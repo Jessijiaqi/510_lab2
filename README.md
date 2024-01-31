@@ -2,7 +2,10 @@
 Web-scrapping for Seattleevent website 
 
 ## what's Included
-Visitseattle.ipynb
+```Visitseattle.ipynb```:Jupiter notebook about web-scraping 
+```events.csv``` :Basic information about events scraped at https://visitseattle.org.
+···events.update```
+
 
 ### Basic events info grab (no weather and coordinates)：events.csv
 
