@@ -9,7 +9,11 @@ Web-scrapping for Seattleevent website
 
 
 ## What I have Learned From This Lab
+- Scrap the specific information on the website
+- Using API to get information
+- Using "selecor" to filter information I want
+- change the date format
 
-
-### Event's weather and coordinate information: events_with_weather.csv
+## Qusetions/Uncertanties
 - I was only able to grab the weather information for seven days from 1.26 onwards.
+- I don't know what to do with "going" and "now through + date" times.
